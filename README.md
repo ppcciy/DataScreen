@@ -3,8 +3,7 @@
 > 企业级数据中心监控大屏系统，采用前后端分离架构，提供实时性能监控、趋势分析、告警统计等功能。
 
 ## 项目预览
-
-![DataScreen Dashboard](https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=data%20center%20monitoring%20dashboard%20with%20charts%20and%20graphs%20in%20morandi%20color%20palette%20enterprise%20BI%20style&image_size=landscape_16_9)
+<img width="2560" height="1528" alt="image" src="https://github.com/user-attachments/assets/c110af48-7367-4b0f-8c1e-2795bb4964e0" />
 
 ## 技术栈
 
